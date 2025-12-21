@@ -1,0 +1,96 @@
+{
+  "version": 1,
+  "base_track": "Entertainer",
+  "base_artist": "Tee Shyne",
+  "createdAt": "2025-12-21T12:28:55.956347Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Gettin' It Started (Skit) (Feat. Cedric The Entertainer & La La)",
+      "artist": "Nelly",
+      "has_synced": false,
+      "path": "select/01_Gettin'_It_Started_(Skit)_(Feat._Cedric_The_Entertainer_&_La_La)_Nelly.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "In the Store (Skit) (Feat. Cedric The Entertainer & La La)",
+      "artist": "Nelly",
+      "has_synced": false,
+      "path": "select/02_In_the_Store_(Skit)_(Feat._Cedric_The_Entertainer_&_La_La)_Nelly.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Interlude (feat. Cedric The Entertainer)",
+      "artist": "Nelly",
+      "has_synced": false,
+      "path": "select/03_Interlude_(feat._Cedric_The_Entertainer)_Nelly.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Intro (feat. Cedric The Entertainer)",
+      "artist": "Nelly",
+      "has_synced": true,
+      "path": "select/04_Intro_(feat._Cedric_The_Entertainer)_Nelly.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Outro (feat. Cedric The Entertainer)",
+      "artist": "Nelly",
+      "has_synced": false,
+      "path": "select/05_Outro_(feat._Cedric_The_Entertainer)_Nelly.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "The Entertainer",
+      "artist": "Billy Joel",
+      "has_synced": true,
+      "path": "select/06_The_Entertainer_Billy_Joel.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "The Entertainer",
+      "artist": "KT Tunstall",
+      "has_synced": true,
+      "path": "select/07_The_Entertainer_KT_Tunstall.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Entertainer",
+      "artist": "ZAYN",
+      "has_synced": true,
+      "path": "select/08_Entertainer_ZAYN.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Born Entertainer",
+      "artist": "Veruca Salt",
+      "has_synced": true,
+      "path": "select/09_Born_Entertainer_Veruca_Salt.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "The Entertainer",
+      "artist": "Billy Joel",
+      "has_synced": true,
+      "path": "select/10_The_Entertainer_Billy_Joel.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Entertainer",
+      "artist": "Tee Shyne",
+      "has_synced": false,
+      "path": "select/pl_01_Entertainer_Tee_Shyne.txt"
+    }
+  ]
+}
